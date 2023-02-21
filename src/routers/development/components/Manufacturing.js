@@ -10,7 +10,7 @@ function Manufacturing() {
                 Thinking about Engineering or Design? We’ve got you covered. We’ve built up our expertise in these areas over the years, so you can focus building and designing things that change the world.
             </p>
             <p>
-                At PTechCrew LLC., the algorithm and process for staffing for engineers is entirely driven by the unique employment landscape that exists today for this profession. We leverage our robust network to identify top talent and opportunities within the industry. Learning your compelling story and conveying it to qualified engineering professionals is often the catalyst needed to make the connection and to present the best candidates for your search.
+                At EmTekSolutions., the algorithm and process for staffing for engineers is entirely driven by the unique employment landscape that exists today for this profession. We leverage our robust network to identify top talent and opportunities within the industry. Learning your compelling story and conveying it to qualified engineering professionals is often the catalyst needed to make the connection and to present the best candidates for your search.
             </p>
             <h2>
                 Types of Manufacturing & Engineering Jobs We Fill

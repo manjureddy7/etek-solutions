@@ -9,7 +9,7 @@ function DataEngineering() {
                 Our Data Engineering practice, involves gathering and combining data from disparate sources and building data assets to facilitate analytics that supports decision making. The outcomes of an effective data engineering process makes it possible for data scientists and data analysts to create actionable intelligence that enable organizations to improve business outcomes.
             </p>
             <p>
-                PTechCrew LLC offers robust and scalable data engineering solutions that help organizations build a sustainable data-driven ecosystem with predictive analytics capabilities.
+                EmTekSolutions offers robust and scalable data engineering solutions that help organizations build a sustainable data-driven ecosystem with predictive analytics capabilities.
             </p>
             <h2>
                 Data Modeling

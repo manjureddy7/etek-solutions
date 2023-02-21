@@ -4,7 +4,7 @@ function Banking() {
     return(
         <div className='services-root'>
             <p>
-            Many of the world’s largest commercial banking, group insurance and securities processing firms depend on PTechCrew LLC., enterprise data transformation and integration services to achieve a more complete and timely view of their customers, to leverage customer interaction through various channels for better cross-sell/up-sell opportunities, and to automate activities such as mortgage origination.we enable our clients by offering them solutions, from industry-leading functionalities and best practice tailored to address the unique challenges of businesses.
+            Many of the world’s largest commercial banking, group insurance and securities processing firms depend on EmTekSolutions., enterprise data transformation and integration services to achieve a more complete and timely view of their customers, to leverage customer interaction through various channels for better cross-sell/up-sell opportunities, and to automate activities such as mortgage origination.we enable our clients by offering them solutions, from industry-leading functionalities and best practice tailored to address the unique challenges of businesses.
             </p>
             <h2>
             Types Of Banking/Financial Operation Jobs We Fill
@@ -74,10 +74,10 @@ function Banking() {
                 </li>
             </ul>
             <p>
-            Legal jobs have very specific requirements. So when it comes to finding a legal career, don’t rely on the law of averages. Partner with At PTechCrew LLC., and put yourself in the best position possible. We’ll start with a collaborative yet urgent process that delivers highly qualified candidates for every level of your organization.
+            Legal jobs have very specific requirements. So when it comes to finding a legal career, don’t rely on the law of averages. Partner with At EmTekSolutions., and put yourself in the best position possible. We’ll start with a collaborative yet urgent process that delivers highly qualified candidates for every level of your organization.
             </p>
             <p>
-            Then, beyond required skills, knowledge, and experience, you need the ‘right fit.’ At PTechCrew LLC. , we focus on discovering and recommending talented individuals for various key legal roles in your organization. Our experienced professional recruiters possess the research tools and legal industry knowledge to assess an important array of qualifications and aptitudes.
+            Then, beyond required skills, knowledge, and experience, you need the ‘right fit.’ At EmTekSolutions. , we focus on discovering and recommending talented individuals for various key legal roles in your organization. Our experienced professional recruiters possess the research tools and legal industry knowledge to assess an important array of qualifications and aptitudes.
             </p>
         </div>
     )

@@ -25,7 +25,7 @@ const Crewfooter = () => {
       <Container className={classes['footer-container']}>
         <Row className="justify-content-md-center">
           <Col xs="12" lg="3">
-          <img src="footer-logo.png" alt="techcrew" width="150" height="100"/>
+          <img src="logo.png" alt="techcrew" width="150" height="100"/>
           <div>{techcrewText}</div>
           <div>
             <FontAwesomeIcon icon="fa-brands fa-square-facebook" />
@@ -60,7 +60,7 @@ const Crewfooter = () => {
           </Col>
           <Col xs="12" lg="3">
             <h6>CONTACT ADDRESS</h6>
-            <h6>PTechCrew LLC</h6>
+            <h6>EmTekSolutions</h6>
             <ul className={classes['list-elements']}>
               {
                 contactInfo.map((object) => {
@@ -76,7 +76,7 @@ const Crewfooter = () => {
         </Row>
         <hr/>
         <Row className="justify-content-md-center">
-          <Col  md="auto" className={classes['copyright-text']}>© Copyright 2022 PTechCrew LLC. All Rights Reserved.</Col>
+          <Col  md="auto" className={classes['copyright-text']}>© Copyright 2022 EmTekSolutions. All Rights Reserved.</Col>
         </Row>
     
     </Container>
