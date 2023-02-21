@@ -1,0 +1,43 @@
+.development-container {
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #013d7c;
+    color: white;
+    height: 400px;
+    border-radius: 10px;
+}
+.development-text {
+    width: 50%;
+}
+.highlight {
+    color: #d1103f;
+    margin-left: 10px;
+}
+.development-text p {
+    font-size: 22px;
+    line-height: 33px;
+    margin-top: 10px;
+}
+.development-action {
+    display: flex;
+    flex-direction: column;
+}
+.dev-icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    padding: 20px;
+    cursor: pointer;
+}
+.dev-icons div {
+    font-size: 22px;
+    margin-right: 20px;
+}
+.actn-btn a {
+    color: white;
+    text-decoration: none;
+}

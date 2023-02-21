@@ -1,0 +1,23 @@
+.about-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+    flex-direction: column;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.aboutus-image {
+    height: 400px;
+}
+
+.about-text {
+    font-size: 18px;
+    padding: 100px;
+    background-color: #013d7c;
+    color: white;
+    font-family: Bogle;
+}

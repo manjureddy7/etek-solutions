@@ -1,0 +1,21 @@
+.services-root {
+    display: flex;
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+}
+.services-root p {
+    text-align: justify;
+}
+.services-root h2 {
+    color: #0084b3;
+    margin: 8px 0px 16px 0px;
+    font-style: italic;
+}
+.index-route {
+    position: relative;
+    top: 50%;
+    left: 30%;
+    font-size: 30px;
+    font-style: italic;
+}

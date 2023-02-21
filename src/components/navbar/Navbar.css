@@ -1,0 +1,15 @@
+.navbar-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    align-items: center;
+}
+.nav-links a {
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+.link {
+    cursor: pointer;
+    font-size: 16px;
+}
