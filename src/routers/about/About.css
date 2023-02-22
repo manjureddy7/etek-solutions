@@ -26,6 +26,18 @@
     .aboutus-image {
         height: 200px;
     }
+    .about-container {
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+    }
+    .about-text {
+        background-color: #013d7c;
+        color: #fff;
+        font-family: Bogle;
+        font-size: 1rem;
+        padding: 10px;
+    }
 }
 
 @media (max-width: 768px) { 

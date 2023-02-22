@@ -82,5 +82,15 @@
         position: relative;
         top: 0px;
     }
+    .active {
+        align-items: center;
+        background-color: #d1103f;
+        display: flex;
+        height: 40px;
+        justify-content: center;
+        margin-bottom: 10px;
+        text-align: center;
+        width: 100%;
+    }
 }
 

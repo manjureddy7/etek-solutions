@@ -42,6 +42,7 @@
     .landing {
         display: flex;
         flex-direction: column;
+        height: auto;
     }
     .landing h1 {
         font-size: 24px

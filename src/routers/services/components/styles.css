@@ -28,4 +28,11 @@
         font-size: 30px;
         font-style: italic;
     }
+    .services-root {
+        display: flex;
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+        margin-top: 10px;
+    }
 }
