@@ -21,3 +21,19 @@
     color: white;
     font-family: Bogle;
 }
+
+@media (max-width: 576px) { 
+    .aboutus-image {
+        height: 200px;
+    }
+}
+
+@media (max-width: 768px) { 
+    .landing {
+        display: flex;
+        flex-direction: column;
+    }
+    .landing h1 {
+        font-size: 24px
+    }
+}

@@ -10,9 +10,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 
 const Crewfooter = () => {
-  console.log("data",Data);
-  const [services,setService] = useState(Data.serviceData);
-  const [development,setDevelopment] = useState(Data.developmentData);
+  const [services] = useState(Data.serviceData);
+  const [development] = useState(Data.developmentData);
   const techcrewText = "is a US based IT consulting services and products company that focuses on providing the best business integration service through the application of technology.";
   const contactInfo = [
     {text : "12591 Akenside Rd,Frisco, TX-75035.",image : "fa-solid fa-location-dot"},

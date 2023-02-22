@@ -13,3 +13,32 @@
     cursor: pointer;
     font-size: 16px;
 }
+
+.active-link {
+    cursor: pointer;
+    font-size: 16px;
+    border-bottom-right-radius: 10px;
+    border-bottom: 5px solid orange;
+    border-bottom-style: groove;
+}
+
+
+@media (max-width: 576px) { 
+    .navbar-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 20px;
+        align-items: center;
+    }
+    .nav-links {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 768px) { 
+
+}

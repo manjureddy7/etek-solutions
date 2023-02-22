@@ -60,3 +60,27 @@
     height: 400px;
     width: 80%;
 }
+
+@media (max-width: 576px) { 
+    .service-container {
+        padding: 10px;
+        margin: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .links-container {
+        width: 100%;
+        border: 1px solid;
+        height: 400px;
+        box-shadow: 12px 6px 4px 0px #0d619a;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+        top: 0px;
+    }
+}
+
