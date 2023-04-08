@@ -12,11 +12,11 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 const Crewfooter = () => {
   const [services] = useState(Data.serviceData);
   const [development] = useState(Data.developmentData);
-  const techcrewText = "is a US based IT consulting services and products company that focuses on providing the best business integration service through the application of technology.";
+  const techcrewText = "is an US based IT consulting services and products company that focuses on providing the best business integration service through the application of technology.";
   const contactInfo = [
-    {text : "12591 Akenside Rd,Frisco, TX-75035.",image : "fa-solid fa-location-dot"},
-    {text : "info@ptechcrew.com",image : "fa-solid fa-envelope"},
-    {text : "+1 469 558 1216",image : "fa-solid fa-phone"}
+    {text : "325 Hawthorne woods rd Apex, NC 27523.",image : "fa-solid fa-location-dot"},
+    {text : "Hr@emteksolutionsus.com",image : "fa-solid fa-envelope"},
+    {text : "+1 703 628 1983",image : "fa-solid fa-phone"}
   ]
  
   return (
@@ -75,7 +75,7 @@ const Crewfooter = () => {
         </Row>
         <hr/>
         <Row className="justify-content-md-center">
-          <Col  md="auto" className={classes['copyright-text']}>© Copyright 2022 EmTekSolutions. All Rights Reserved.</Col>
+          <Col  md="auto" className={classes['copyright-text']}>© Copyright 2023 EmTekSolutions. All Rights Reserved.</Col>
         </Row>
     
     </Container>
