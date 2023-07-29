@@ -9,7 +9,7 @@ function Development() {
     return(
         <div className="development-container">
             <div className='development-text'>
-                <h1>MTEK<span className='highlight'>DEVELOPMENT</span></h1>
+                <h1>Emtek Solutions<span className='highlight'>DEVELOPMENT</span></h1>
                 <p>
                     Our Exceptional understanding of various industry verticals enables us to provide innovative and challenging end-to-end technology solutions. We leverage our business knowledge with our expertise across various lines of technologies. Following are the industries that we are currently dealing with
                 </p>
