@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 function Welcome() {
     return(
         <div className='landing'>
-            <h1>WELCOME TO <span className='company'>EMTEKSOLUTIONS</span></h1>
+            <h1>WELCOME TO <span className='company'>EMTEK SOLUTIONS</span></h1>
             <p>
                 Emtek solutions is an US based IT development, services and products company that focuses on providing the best business integration service through the application of technology.
             </p>
