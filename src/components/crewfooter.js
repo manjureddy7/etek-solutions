@@ -59,7 +59,7 @@ const Crewfooter = () => {
           </Col>
           <Col xs="12" lg="3">
             <h6>CONTACT ADDRESS</h6>
-            <h6>EmTekSolutions</h6>
+            <h6>Emtek solutions</h6>
             <ul className={classes['list-elements']}>
               {
                 contactInfo.map((object) => {
@@ -75,7 +75,7 @@ const Crewfooter = () => {
         </Row>
         <hr/>
         <Row className="justify-content-md-center">
-          <Col  md="auto" className={classes['copyright-text']}>© Copyright 2023 EmTekSolutions. All Rights Reserved.</Col>
+          <Col  md="auto" className={classes['copyright-text']}>© Copyright 2023 Emtek solutions. All Rights Reserved.</Col>
         </Row>
     
     </Container>
