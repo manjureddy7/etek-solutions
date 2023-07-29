@@ -10,7 +10,7 @@ function Services() {
         <div className="services-container">
             <div className='services-text'>
                 <h1>IT<span className='highlight'>SERVICES</span></h1>
-                <p>Our vision is to be a world-class business integration service provider. PTechCrew believes technology should enable collaboration.</p>
+                <p>Our vision is to be a world-class business integration service provider. Emtek solutions believes technology should enable collaboration.</p>
             </div>
             <div className='services-action'>
             <div className='dev-icons'>
