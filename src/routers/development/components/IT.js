@@ -9,7 +9,7 @@ function IT() {
             <h2>
             </h2>
             <p>
-                The Information Technology profession is among the fastest-growing segments of employment in the U.S. At PTechCrew, our sourcing strategies include placements for local, remote, commuter, and relocation talent. Equipped with a robust network of vetted talent, an intense sourcing and screening process, and the ability to find highly sought-after resources, we begin by expanding beyond the typical search. Our proven process ensures success with every placement.
+                The Information Technology profession is among the fastest-growing segments of employment in the U.S. At Emtek solutions, our sourcing strategies include placements for local, remote, commuter, and relocation talent. Equipped with a robust network of vetted talent, an intense sourcing and screening process, and the ability to find highly sought-after resources, we begin by expanding beyond the typical search. Our proven process ensures success with every placement.
             </p>
             <p>
                 We also recruit IT, team members, with the most in-demand IT certifications, including CompTIA A+, CompTIA Network+, CCNA, MCSE, CISA, CISA, CISSP, CISM, CRISC.
